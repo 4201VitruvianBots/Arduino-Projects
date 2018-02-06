@@ -15,3 +15,6 @@ LED Code for the Road Case
 ## 4PIN 2017 Clutch LED Code
 
 4 pin LED Stip code for Clutch
+
+## LED Color Control
+Control non-addressable RGB LED strip for 2018 robot
